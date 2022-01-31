@@ -1,0 +1,13 @@
+{
+  "name": "paradise-explorer-data",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "@alphahw",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@neo4j/introspector": "^1.0.1",
+    "dotenv": "^14.3.2",
+    "neo4j-driver": "^4.4.1"
+  }
+}
